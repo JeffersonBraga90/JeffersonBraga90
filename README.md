@@ -1,9 +1,7 @@
-<h3>Oi eu sou o Jefferson</h3>
-</ br>
-<a href="https://www.linkedin.com/in/jeffersoncorreabraga/" rel="nofollow">
-	<img src="https://camo.githubusercontent.com/0271c9f903c82d91b19ebd8458901d7c61ce1528/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" style="max-width:100%;">
-</a>
-</ br>
+<h1>Oi eu sou o Jefferson</h1>
+
+
+
 <p>Sejam bem vindos ao meu perfil no <strong>Github</strong>, me chamo Jefferson, sou natural da cidade de Petrópolis/RJ, estou me graduando em
    Análise e Desenvolvimento de Sistemas, também estudo desenvolvimento web, com foco em programação front-end, onde dedico meu tempo aprendendo
    boas práticas em programação, frameworks entre outros.
