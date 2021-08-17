@@ -10,7 +10,7 @@
 </p>
 
 <ul>
-<li><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji><strong> Atualmente estou no primeiro ano da faculdade, cursando Análise e Desenvolvimento de Sistemas.</strong></li>
+<li><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji><strong> Atualmente estou cursando Análise e Desenvolvimento de Sistemas.</strong></li>
 <li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji><strong> Aprendizado constante em programação front-end.</strong></li>
 </ul>
 
