@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jefferson Braga <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" style="max-width: 100%;"></a> </h1>
+<h1>Hi, I'm Jefferson Braga</h1>
 
 <p><a href="https://www.linkedin.com/in/jeffersoncorreabraga/" rel="nofollow">
 	<img src="https://camo.githubusercontent.com/0271c9f903c82d91b19ebd8458901d7c61ce1528/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" style="max-width:100%;">
